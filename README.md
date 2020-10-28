@@ -53,8 +53,7 @@ To do lists come in all shapes and sizes. It always used to be something that yo
 - Able to synch between different platforms
 
 All it takes is just a few minutes every day to keep a to do list up to date. With a to do list, you can complete goals without wasting time trying to figure out priorities. Your productivity will increase, you won’t forget things, your time management will improve and you’ll be able to manage your tasks more effectively.
-<p align="center">
-  <img src="/src/img/bbg1.jpg" width=720px height=360px />
+
 </p><p align="center">
   <img src="/src/img/bbg.jpg" width=720px height=360px />
 </p>
